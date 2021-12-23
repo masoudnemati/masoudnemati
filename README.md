@@ -7,6 +7,6 @@ I like to learn about:
   <li>HTML/ CSS/ UX/ SEO</li>
   <li>JavaScript</li>
   <li>React.js/ Next.js/ Leafletjs</li>
-  <li>PostgreSQL/ Prisma/ Node.js/ S3/ JWT </li>
+  <li>PostgreSQL/ Prisma/ Node.js/ Amazon S3 Object Storage/ JWT </li>
   <li>Business Administration</li>
   </ol>
